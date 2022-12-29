@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielHadi
-- 👀 I’m interested in web development and programming
-- 🌱 I’m currently learning the basic concept of web development
+- 👀 I’m interested in a basic programming skills
+- 🌱 I’m currently learning the basic concept of web development and also solidity programming
 - 💞️ I’m looking to collaborate on training development
 - 📫 How to reach me, email to d.suryahadi01@gmail.com
 
