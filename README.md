@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielHadi
-- 👀 I’m interested in a basic programming skills
-- 🌱 I’m currently learning programming development skills needed in company
+- 👀 I’m interested in technology and its trend
+- 🌱 I’m currently learning programming development skills needed at company
 - 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me, email to d.suryahadi01@gmail.com
 - Usually online, since I'm building my portfolio right now :)
